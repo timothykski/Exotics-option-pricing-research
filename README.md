@@ -1,2 +1,2 @@
 # Exotics-option-pricing-research
-!Model Diagram
+**!Model Diagram**
