@@ -1,2 +1,2 @@
 # Exotics-option-pricing-research
-!des.PNG
+!Model Diagram
